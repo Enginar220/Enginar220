@@ -8,3 +8,6 @@ I'm Engin.
 
 -How to reach me: engincangocer473@gmail.com
 
+-linkedin:https://www.linkedin.com/in/engincangocer473473/
+
+-kaggle:https://www.kaggle.com/engincanger
